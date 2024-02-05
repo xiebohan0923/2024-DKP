@@ -1,0 +1,6 @@
+bitsandbytes=0.41.0=py39h87c11cd_2
+peft=0.6.2=pyhd8ed1ab_0
+dgl=1.1.2.cu118=py39_0
+numpy=1.26.0=py39h5f9d8c6_0
+pytorch=2.1.1=py3.9_cuda12.1_cudnn8.9.2_0
+transformers=4.35.2=pyhd8ed1ab_0
